@@ -1,4 +1,4 @@
-# Bandwidth measurement with RRDtool
+# Bandwidth measurement with Bash and RRDtool
 Shell bash script that using RRDTool generates daily, weekly, monthly and annual statistical graphs of network traffic on the monitored interfaces, all in a very simple way.
 ## Development
 ### This project was developed and tested in the following environment:
@@ -31,4 +31,4 @@ Finally, access the generated html pages through a web browser.
 
 ![img](screenshot.png)
 
-*P.S. Sorry for the bad translation...*  :bow:
+*P.S. Sorry for the bad translation... Yes, I used Google Translate.*  :bow:
